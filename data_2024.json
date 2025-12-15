@@ -1,0 +1,28 @@
+{
+  "total_videos": 432,
+  "total_views": 38754504,
+  "total_likes": 1453096,
+  "total_comments": 30825,
+  "total_shares": 65059,
+  "total_saves": 49912,
+  "engagement_rate": 4.13,
+  "avg_views_per_video": 89709,
+  "platforms": {
+    "Instagram": 264,
+    "TikTok": 114,
+    "Facebook": 51,
+    "YouTube": 3
+  },
+  "top_influencers": {
+    "Antonia Botero": 10378400,
+    "Hormazatv": 4423700,
+    "Yoaibimar Daal Daal": 3522300,
+    "Antonia Botero y Xavi": 1735000,
+    "Nati Show": 1457110,
+    "Yoaibimar Daal": 1356100,
+    "Victor Drija": 1336600,
+    "Juan Diego Albarran": 1219800,
+    "Scarlet Ortiz": 1038436,
+    "Carlos & Natalie": 900300
+  }
+}
