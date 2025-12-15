@@ -4,7 +4,7 @@ A comprehensive, visually stunning analysis of MyBambu's influencer marketing ca
 
 ## 🎯 Report Overview
 
-Professional HTML report analyzing **1,034 influencer videos** generating **38.8M+ views** across Instagram, TikTok, Facebook, and YouTube. Built with MyBambu's brand identity featuring Synthetic Spearmint (#27FB6B) and Blue Black (#00052E) color palette.
+Professional HTML report analyzing **1,034 influencer videos** generating **100M+ views** and **4.39M total engagements** across Instagram, TikTok, Facebook, and YouTube. Built with MyBambu's brand identity featuring Synthetic Spearmint (#27FB6B) and Blue Black (#00052E) color palette.
 
 ## 🚀 View Live Report
 

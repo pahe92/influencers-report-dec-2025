@@ -1,0 +1,29 @@
+{
+  "total_videos": 602,
+  "total_views": 60361691,
+  "total_likes": 247997,
+  "total_comments": 49638,
+  "total_shares": 139947,
+  "total_saves": 62822,
+  "total_engagements": 500404,
+  "engagement_rate": 0.83,
+  "avg_views_per_video": 100268,
+  "platforms": {
+    "Instagram": 411,
+    "TikTok": 167,
+    "Facebook": 19,
+    "Tiktok ": 4
+  },
+  "top_influencers": {
+    "Antonia Botero": 9618783,
+    "Marian Corrales": 9290000,
+    "Manuel Conecta": 4319977,
+    "Aleska Genesis": 4235900,
+    "Yoaibimar": 3438000,
+    "Benjamin Zamora": 2954120,
+    "Sheynnis Palacios": 2115071,
+    "Jerry Camona": 1598500,
+    "Yohana Vargas": 1552700,
+    "Erik y Andrea": 1541735
+  }
+}
